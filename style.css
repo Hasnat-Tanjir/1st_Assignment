@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.container{
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.divide-width{
+    width: 50%;
+    padding-left: 2%;
+}
+
+.divide-width img {
+    width: 70%;
+}
+.focused-box{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+h1{
+    font-size: 50px;
+}
+.focused-2022{
+    border-left: 5px solid;
+    border-image: linear-gradient(purple, tomato);
+    border-image-slice: 1;
+    border-radius: 10px;
+}
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.mission-item{
+    width: 25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.mission-item img{
+    width: 40%;
+}
+.mission{
+    background-color: skyblue;
+}
+.vission{
+    background-color: pink;
+}
+.goals{
+    background-color: darkorange;
+}
+.set-mission{
+    padding-left: 10%;
+}
+.m-text{
+    text-align: center;
+}
