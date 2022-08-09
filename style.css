@@ -3,13 +3,22 @@ body{
     margin: 0;
 }
 
+/* :root{
+    --orange-color: #FF8C00;
+
+}    */
 .orange-color{
     color: orange;
 }
-
+.crimson-color{
+    color: #DC143C;
+}
+.white-color{
+    color: white;
+}
 .container{
     display: flex;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .divide-width{
@@ -17,7 +26,7 @@ body{
     padding-left: 2%;
 }
 
-.divide-width img {
+.focused-img img {
     width: 70%;
 }
 .focused-box{
@@ -40,6 +49,7 @@ h1{
     border-radius: 5px;
     color: white;
 }
+
 .mission-item{
     width: 25%;
     margin-left: 10px;
@@ -64,4 +74,55 @@ h1{
 }
 .m-text{
     text-align: center;
+}
+
+.develop{
+    width: 40%;
+}
+.develop img{
+    width: 65%; 
+    margin-left: 25%;
+    margin-top: 3%;
+}
+.develop-description{
+    width: 50%;
+    margin-right: 20%;
+}
+
+.Community{
+    width: 45%;
+    margin-left: 10%;
+}
+.Community-img{
+    width: 45%;
+}
+.Community-img img{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.corona-app-img{
+    width: 50%;
+}
+.corona-app-img img{
+    width: 50%;
+    margin-left: 30%;
+}
+.corona-app-description{
+    width: 30%;
+    margin-top: 5%;
+}
+.corona-heading{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #2F4F4F;
+    padding: 1%;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
 }
