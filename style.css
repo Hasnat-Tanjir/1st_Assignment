@@ -1,3 +1,12 @@
+/* google fonts fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Yeseva+One&display=swap');
+
+/* common style var*/
+/* body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #fefefe;
+} */
+
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -41,6 +50,7 @@ h1{
     border-image: linear-gradient(purple, tomato);
     border-image-slice: 1;
     border-radius: 10px;
+    padding-left: 2%;
 }
 .button{
     text-decoration: none;
