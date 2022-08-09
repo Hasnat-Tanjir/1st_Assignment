@@ -1,12 +1,6 @@
 /* google fonts fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Yeseva+One&display=swap');
 
-/* common style var*/
-/* body{
-    font-family: 'Poppins', sans-serif;
-    background-color: #fefefe;
-} */
-
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
